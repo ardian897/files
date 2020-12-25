@@ -1,5 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:8
-#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-1 tvg-logo="" group-title="",Live 1
 https://script.vitv.site/in_yt/yt_parse?channelid=_eKKfbBgp-s
