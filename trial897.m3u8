@@ -1,3 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhf9lrG_hoL8aeGN-EWfpaRYoWDcD1RROlQr3v-=s88-c-k-c0x00ffffff-no-rj" group-title="",Info Channel
+https://github.com/ardian897/videos/blob/main/notif.mp4?raw=true
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="" group-title="Trial",Makkah Live
